@@ -2265,7 +2265,8 @@ fieldset[disabled] .s-btn {
 }
 
 .s-portfolio__paginations-v1 .cbp-nav-pagination-active {
-  background: #13b1cd;
+  /* background: #13b1cd; */
+  background: #242424;
 }
 
 /* Tab v1
