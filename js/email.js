@@ -23,3 +23,13 @@ function success() {
       text: "We'll brew your reply shortly!",
     });
   }
+
+
+function comingSoon() {
+    Swal.fire({
+      icon: "error",
+      title: "Sorry!",
+      text: "Social Media Coming Soon...",
+      confirmButtonText: "OK!",
+    });
+}
